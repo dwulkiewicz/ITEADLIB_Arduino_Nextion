@@ -1,6 +1,10 @@
+--------------------------------------------------------------------------------
 Clone of https://github.com/itead/ITEADLIB_Arduino_Nextion with my changes
 - remaping GPIO Rx Tx for ESP32
-- added support for OnPageShow - events SENDME
+- added support for OnPageShow event after calling SENDME
+--------------------------------------------------------------------------------
+
+
 
 # Nextion
 
